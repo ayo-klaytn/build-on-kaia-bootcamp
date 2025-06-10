@@ -1,4 +1,4 @@
-# Build on Kaia Bootcamp 2025
+# Build on Kaia Bootcamp
 
 Github repo of the Build on Kaia Bootcamp.
 
