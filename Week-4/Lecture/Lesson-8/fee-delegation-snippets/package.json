@@ -1,0 +1,16 @@
+{
+  "name": "fee-delegation-snippets",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@kaiachain/ethers-ext": "^2.0.7",
+    "axios": "^1.10.0",
+    "ethers": "^6.14.4"
+  }
+}
