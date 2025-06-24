@@ -120,7 +120,7 @@ Paid: 0.15539843 ETH (5650852 gas * 27.5 gwei)
 
 NFT Minted at contract deployment: 
 
-> image
+![Dynamos Inital Mint](./img/dynamos-initial-mint.png)
 
 # Interact with Deployed Contract
 
@@ -164,7 +164,8 @@ Refresh token URI on explorer
 
 New image based on price changes. 
 
-> image
+![Dynamos Price Change](./img/dynamos-price-change.png)
+
 
 # Verify Contract 
 
